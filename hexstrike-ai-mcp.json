@@ -1,0 +1,4 @@
+{
+  "note": "Paste 'connector_url' ke Claude Web \u2192 Settings \u2192 Connectors \u2192 Add custom connector",
+  "connector_url": "https://alto-wilt-shove.ngrok-free.dev/mcp"
+}
